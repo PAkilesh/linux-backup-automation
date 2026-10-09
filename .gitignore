@@ -1,0 +1,20 @@
+# Generated backup files
+backups/
+
+# Runtime logs
+logs/
+
+# Recovery testing
+restore-test/
+company-data-test-hidden/
+
+# Sensitive and temporary files
+*.log
+*.tar
+*.tar.gz
+*.sha256
+*.tmp
+*.bak
+.env
+*.key
+*.pem
